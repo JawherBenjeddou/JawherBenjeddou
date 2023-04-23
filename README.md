@@ -1,8 +1,8 @@
-<div id="header" align="right">
+<div id="header" align="center">
     <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="400px"/>
 </div>
-  
-  
+
+
 # 👨‍💻 Jawher Benjeddou (Joe)
 ---
 
