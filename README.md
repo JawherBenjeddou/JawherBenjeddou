@@ -21,7 +21,7 @@
 
 ![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=JawherBenjeddou&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=JawherBenjeddou&theme=gruvbox&border_radius=4.5) -->
+ ![GitHub Streak](https://streak-stats.demolab.com?user=JawherBenjeddou&theme=gruvbox&border_radius=4.5) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JawherBenjeddou&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 #
 <details>
