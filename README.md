@@ -24,6 +24,3 @@
 
  <!--![GitHub Streak](https://streak-stats.demolab.com?user=JawherBenjeddou&theme=gruvbox&border_radius=4.5) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JawherBenjeddou&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-#
-<details>
- <summary><h3>👨‍💻 Joe's Coding Journey</h3></summary>
