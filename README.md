@@ -17,7 +17,7 @@
 ## GitHub Stats 📊 
 
  <!--![GitHub Streak](https://streak-stats.demolab.com?user=JawherBenjeddou&theme=gruvbox&border_radius=4.5) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JawherBenjeddou&langs_count=8&theme=radical&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JawherBenjeddou&langs_count=8&theme=gruvbox&layout=pie)
 
 
 ```cpp
