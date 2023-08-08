@@ -23,7 +23,7 @@
 ```cpp
 #include <iostream>
 
-int main(int argc, char* argv[])
+int main(void)
     const std::string Name = "Joe";
     const std::string currentFocus = "Graphics Programming";
     std::cout << "🎉 Welcome to my repo place!" << std::endl;
