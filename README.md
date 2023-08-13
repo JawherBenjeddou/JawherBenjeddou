@@ -24,17 +24,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JawherBenjeddou&langs_count=8&theme=dark&layout=pie)
 
-```cpp
-#include <iostream>
-
-int main(void)
-    const std::string Name = "Joe";
-    const std::string currentFocus = "Graphics Programming";
-    std::cout << "🎉 Welcome to my repo place!" << std::endl;
-    std::cout << "🔥 I'm " << Name << ", a very good developer . kekw" << std::endl;
-    std::cout << "🔍 Currently focusing on " << currentFocus << "."<< std::endl;
-    std::cout << "hmu if you want to work on something" << std::endl;
-
-    return 0;
-}
-```
