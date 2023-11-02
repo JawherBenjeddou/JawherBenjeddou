@@ -21,5 +21,3 @@
 
  <!--![GitHub Streak](https://streak-stats.demolab.com?user=JawherBenjeddou&theme=gruvbox&border_radius=4.5) -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JawherBenjeddou&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=JawherBenjeddou&show_icons=true&theme=transparent)
